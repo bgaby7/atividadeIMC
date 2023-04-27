@@ -1,0 +1,14 @@
+.texto{
+    background-color: rgb(131, 58, 198);
+    width: 500px;
+    height: 200px;
+    border-color: rgb(159, 104, 211);
+    padding: 15px;
+    border-radius: 10px 40px 10px;
+   }
+   .letras{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    
+   }
+   
